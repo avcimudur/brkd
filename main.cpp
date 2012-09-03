@@ -3,6 +3,7 @@
 
 int main(int argc, char *argv[])
 {
+    qDebug() << "DENEMEEE";
     QApplication a(argc, argv);
     brkdpencere w;
     w.show();
